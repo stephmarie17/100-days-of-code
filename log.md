@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November, 4, 2019
+##### jQuery & CSS
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Updated CSS and worked on using Open Weather API to create a weather dashboard.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Feeling more comfortable with jQuery and AJAX calls, but still figuring out the most efficient ways to utilize results from a third party API.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Weather Dashboard](https://github.com/stephmarie17/unit-6-homework)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 5, 2019
+#### Going over JS Basics
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progres:** Making my way through Free Code Camp's JavaScript Algorithms and Data Structures Certification to supplement what I've been learning through my bootcamp.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** So far I've completed 77/100 Basic JavaScript modules and 7/20 Basic Data Structures modules. Even though alot of this so far has been review, it's been helpful to have multiple iterations of lessons from my bootcamp to further build my JS knowledge base.
