@@ -12,6 +12,18 @@
 ### Day 2: November 5, 2019
 #### Going over JS Basics
 
-**Today's Progres:** Making my way through Free Code Camp's JavaScript Algorithms and Data Structures Certification to supplement what I've been learning through my bootcamp.
+**Today's Progress:** Making my way through Free Code Camp's JavaScript Algorithms and Data Structures Certification to supplement what I've been learning through my bootcamp.
 
 **Thoughts:** So far I've completed 77/100 Basic JavaScript modules and 7/20 Basic Data Structures modules. Even though alot of this so far has been review, it's been helpful to have multiple iterations of lessons from my bootcamp to further build my JS knowledge base.
+
+### Day 3: November, 6, 2019
+#### 50% Done with Web Developer Bootcamp
+
+**Today's Progress:** Today I did a code-along project that is part of the Web Developer Bootcamp on Udemy. After completing this project, I am now 50% done with this course!
+
+**Thoughts:** Even though this was a code along, I still managed to do some independent coding by pausing the video at times  so that I could attempt my own solutions before seeing how the instructor solved different problems. Also it was a good way for me to notice little bugs that appear due to mistyping/misnaming functions etc. and still required me to do some of my own problem solving in case my code wasn't working as expected. I'm starting to feel a lot stronger with CSS as pretty much all of the CSS in this video I could do on my own without watching the instructor walkthrough. 
+
+**Links to work:**
+[Color Game Repo](https://github.com/stephmarie17/color-game)
+[Color Game Deploy](https://stephmarie17.github.io/color-game/)
+        
