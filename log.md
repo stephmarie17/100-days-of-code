@@ -26,4 +26,11 @@
 **Links to work:**
 [Color Game Repo](https://github.com/stephmarie17/color-game)
 [Color Game Deploy](https://stephmarie17.github.io/color-game/)
+
+### Day 4: November, 7, 2019
+#### Bootcamp Homework Week
+
+**Today's Progress:** For my in-person coding bootcamp, we are tasked with creating a portfolio featuring some of our work up to this point so I spent most of today working on the portfolio html and css, then started working on the other homework assignment due this week, the Weather App I worked on on Day 1. 
+
+**Thoughts:** Weather App is already looking a lot better than it did earlier this week. Working on refactoring and cleaning up my code. There are still a few quirks to getting data from the Open Weather API that I'm still figuring out, but the assignment is nearly complete. Also, I've been really enjoying working on my portfolio and playing with the CSS.
         
