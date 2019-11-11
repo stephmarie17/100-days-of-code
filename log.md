@@ -45,3 +45,17 @@
 **Links to work:**
 [Weather Dashboard Repo](https://github.com/stephmarie17/weather-dashboard/deployments)
 [Weather Dashboard Deploy](https://stephmarie17.github.io/weather-dashboard/)
+
+### Day 6: November 9, 2019
+#### Learning to work with Google Maps API
+
+**Today's Progress:** My class was cancelled this weekend for Veteran's Day, so I met up with my study group and coded utilzing the Google Maps API and trying to incorporate some functionality to a website extracting event data from Google Calendar to populate the address on the map.
+
+**Thoughts:** Definitely making progress on implementing API documentation to fit the needs of my applications.
+
+### Day 7: November 10, 2019
+#### FreeCodeCamp
+
+**Today's Progress:** Today I made my way through some more of the Javascript Algorithms and Data Structures certification.
+
+**Thoughts:** I have a tougher time coding abstract, generic functions for each unit than I do designing my own functions, but I learn a lot of little tips from completing the FreeCodeCamp activities.
