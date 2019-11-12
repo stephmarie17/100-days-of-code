@@ -59,3 +59,21 @@
 **Today's Progress:** Today I made my way through some more of the Javascript Algorithms and Data Structures certification.
 
 **Thoughts:** I have a tougher time coding abstract, generic functions for each unit than I do designing my own functions, but I learn a lot of little tips from completing the FreeCodeCamp activities.
+
+### Day 8: November 11, 2019
+#### Debugging Old Projects
+
+**Today's Progress:** I decide this week to work on fixing a homework assignment I attempted when I first started my bootcamp that was completely non-functioning. Today I worked on analyzing the logic and redefining my variables, as well as switching from prompts to DOM manipulation to store user input.
+
+**Thoughts:** It's really crazy how far I've come in my coding journey since starting my bootcamp 10 weeks ago. This assignment was from week 3 and I remember struggling so hard with it, and re-doing the project now was much less of a struggle.
+
+### Day 9: November 12, 2019
+#### Completed Assignment Redesign
+
+**Today's Progress:** I completed the redesign of my homework assignment that I started yesterday and I'm really happy with the functionality.
+
+**Thoughts:** I seriously cannot believe how much I have learned since Week 3 of my coding bootcamp vs now. It's like night and day. Successfully re-coding this assignment has given me so much confidence and motivation for where I'll be as a developer in another ten weeks. 
+
+**Links to work:**
+[Password Generator Repo](https://github.com/stephmarie17/unit-3-homework)
+[Password Generator Site](https://stephmarie17.github.io/unit-3-homework/)
