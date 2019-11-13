@@ -77,3 +77,10 @@
 **Links to work:**
 [Password Generator Repo](https://github.com/stephmarie17/unit-3-homework)
 [Password Generator Site](https://stephmarie17.github.io/unit-3-homework/)
+
+### Day 10: November, 13, 2019
+#### Learning Node.js & JavaScript callbacks
+
+**Today's Progres:** The past few weeks I've been getting into node.js and applying my knowledge of JavaScript to build back-end applications. Today I just practiced different built-in methods to further familiarize myself with node. 
+
+**Thoughts:** I'm getting more comfortable using differnet open source libraries and can't wait to learn even more and start working more on the back-end.
