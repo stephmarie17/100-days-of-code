@@ -84,3 +84,21 @@
 **Today's Progres:** The past few weeks I've been getting into node.js and applying my knowledge of JavaScript to build back-end applications. Today I just practiced different built-in methods to further familiarize myself with node. 
 
 **Thoughts:** I'm getting more comfortable using differnet open source libraries and can't wait to learn even more and start working more on the back-end.
+
+### Day 11: November, 14, 2019
+#### Making Web Dev Bootcamp progress
+
+**Today's Progress:** Today I did a code-along with Colt Steele's Web Developer Bootcamp to create a to-do list using jQuery.
+
+**Thoughts:** Like the other code-along project for this course, I tried to code on my own and then see how the instructor solved the different problems. I did a project similar to this in my own in-person bootcamp, and I felt way more comfortable doing this on my own this time around. 
+
+**Links to work:**
+[To-Do List Repo](https://github.com/stephmarie17/todo-list)
+[To-Do List Site](https://stephmarie17.github.io/todo-list/)
+
+### Day 12: November 14, 2019
+#### More JavaScript & Node.js
+
+**Today's Progress:** I worked on more FreeCodeCamp but then it crashed for some reason. I'm almost done with the JavaScript Basics and Data Structures section. I'm also really proud that I've made it 60% through Colt Steele's Web Developer Bootcamp! I kept working on exporting functions to Node.js and learning cloud developer environments.
+
+**Thoughts:** The full-stack workflow is making a lot more sense to me now, and I honestly cannot wait to learn more back-end development! 
