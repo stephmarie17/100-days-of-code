@@ -102,3 +102,24 @@
 **Today's Progress:** I worked on more FreeCodeCamp but then it crashed for some reason. I'm almost done with the JavaScript Basics and Data Structures section. I'm also really proud that I've made it 60% through Colt Steele's Web Developer Bootcamp! I kept working on exporting functions to Node.js and learning cloud developer environments.
 
 **Thoughts:** The full-stack workflow is making a lot more sense to me now, and I honestly cannot wait to learn more back-end development! 
+
+### Day 13: November 15, 2019
+#### Practicing with Node.Js
+
+**Today's Progress:** Today I explored more with node and setting up cloud developer environments. I worked on using node to start servers and writing files to them.
+
+**Thoughts:** Cloud developer environments are super cool but I still feel more comfortable using the terminal on my local machine. An exciting milestone is I'm 60% done with the Web Developer Bootcamp on Udemy!
+
+### Day 14: November, 16, 2019
+#### Asynchronous JS & ES6
+
+**Today's Progress:** Today I practiced re-writing functions I previously coded so that they are in ES6 format and experimented with different types of asynchronous functions in an attempt to fix a bug I'm having with a client project and asynchronous calls using a third-party API.
+
+**Thoughts:** It was cool to study all of these different approaches to callbacks and gain a better understanding of http requests.
+
+### Day 15: November, 17, 2019
+#### More play with node.js
+
+**Today's Progress:** I worked on an activity from my in-person coding bootcamp that we didn't get to in class, which was to use node.js to create an html file generated with information from user prompts. 
+
+**Thoughts:** This project actually really helped me feel more comfortable with node and gain a better understanding of how I should approach a similar project I'm working on for a homework assignment.
