@@ -123,3 +123,12 @@
 **Today's Progress:** I worked on an activity from my in-person coding bootcamp that we didn't get to in class, which was to use node.js to create an html file generated with information from user prompts. 
 
 **Thoughts:** This project actually really helped me feel more comfortable with node and gain a better understanding of how I should approach a similar project I'm working on for a homework assignment.
+
+### Day 16: November, 18, 2019
+#### More node.js, big surprise
+
+**Today's Progress:** Today I played with selecting some different packages on npm, reading through their documentation, and implementing them on node.js. 
+
+**Thoughts:** Really excited to dive into Express so that all of the work I've been doing with node will be more functional for real applications.
+
+
