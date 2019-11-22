@@ -132,3 +132,31 @@
 **Thoughts:** Really excited to dive into Express so that all of the work I've been doing with node will be more functional for real applications.
 
 
+### Day 17: November, 19, 2019
+#### Weird JavaScript stuff
+
+**Today's Progress:** While doing Colt Steele's Web Developer Bootcamp, I've also been doing a purely JavaScript course on Udemy and have finally gotten to the more complex JavaScript stuff like closures and asynchronous functions. Spent today working through different coding activities to apply what I've learned.
+
+**Thoughts:** The more I practice with JavaScript, the more I love it! There's so many cool things to do with it, I really want to deepen my JS knowledge base.
+
+### Day 18: November, 20, 2019
+#### More JS, more Node
+
+**Today's Progress:** Continuing form yesterday, I've been working my way through Jonas Schmedtmann's Complete JavaScript Course and I'm almost halfway done! Today I ran my code in node instead of the browser so I can also get node practice in, too.
+
+**Thoughts:** Still loving learning more about JS. Bind, call, apply are super badass and I think I'm addicted to learning more about JS.
+
+### Day 19: November, 21, 2019
+#### Create node apps
+
+**Today's Progress:** Been working on a mini-project for my in-person bootcamp, which is rendering a pdf file of a developer's profile based on their GitHub profile. Built a lot of the functionality today and researched different npm libraries to convert html files to pdf.
+
+**Thoughts:** This project has been challenging simply because I'm getting to know the GitHub API better, but it's really fun.
+
+### Day 20: November, 22, 2019
+#### Node project continued
+
+**Today's Progress:** Added on to what I worked on yesterday and still having a few buggy issues but feeling better about where the project will go from here.
+
+**Thoughts:** Tomorrow I leave for a week long vacation so I'm a little worried about my 100 Days of Code progress but I'm so stoked I've done 20 days so far! It's gone by super fast!
+
