@@ -160,3 +160,17 @@
 
 **Thoughts:** Tomorrow I leave for a week long vacation so I'm a little worried about my 100 Days of Code progress but I'm so stoked I've done 20 days so far! It's gone by super fast!
 
+### Day 21: November, 23, 2019
+#### Constructors & Classes
+
+**Today's Progress:** Today I practiced with creating Classes and coding small apps that rely on multiple classes to run.
+
+**Thoughts:** I've been really excited to progress with JavaScript!
+
+### Day 22: November, 25, 2019
+#### Vacation Coding
+
+**Today's Progress:** Had to skip yesterday because I was on a flight most of the day then tried to catch up on sleep once I finally made it to my vacation spot. So I will add an extra day to the end of my 100 Days of Code. Today, I finished up an activity from my bootcamp class focused on constructors and classes like on Day 21.
+
+**Thoughts:** It may be a struggle to maintian my 100 Days of Code during my week-long island vacation, but I'm committed to it! While everyone else in my group takes their post-beach nap during the afternoon, I'll be coding.
+
