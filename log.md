@@ -174,3 +174,17 @@
 
 **Thoughts:** It may be a struggle to maintian my 100 Days of Code during my week-long island vacation, but I'm committed to it! While everyone else in my group takes their post-beach nap during the afternoon, I'll be coding.
 
+### Day 23: November, 26, 2019
+#### Vacation Coding Cont'd
+
+**Today's Progres:** Continued learning Express and running apps in node.js.
+
+**Thoughts:** This is really sad but I wish I was done with my vacation already so I can get home and have more time to code! I got some really good Udemy courses during the Black Friday sale and I want to start them really badly.
+
+### Day 24: November, 27, 2019
+#### Back to Node.js App
+
+**Today's Progress:** Spent a little more time working on coding classes for a mini-project for my in-person coding bootcamp. Still teaching myself about classes and constructors.
+
+**Thoughts:** Having fun with this project and stoked to be getting more in-depth with JavaScript.
+
