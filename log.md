@@ -188,3 +188,16 @@
 
 **Thoughts:** Having fun with this project and stoked to be getting more in-depth with JavaScript.
 
+### Day 25: November, 29, 2019
+#### Javascript practice
+
+**Today's Progress:** While doing the Web Developer Bootcamp on Udemy I've also been doing the Complete JavaScript Course and am just starting the project sections. Today I worked on creating the file structure and pseudo coding modules for a budget app.
+
+**Thoughts:** This week has been tough to keep up with daily coding because Thanksgiving, unreliable resort WiFi, and now I'm starting to get sick. I fly home tomorrow and know I can't code this weekend so I'm just gonna add an extra 7 days to the end of the challenge to make up for the missed days.
+
+### Day 26: December, 2, 2019
+#### Back to coding!
+
+**Today's Progress:** Worked more on the project I started Friday, and also did some practice with building Node servers without Express but just with Javascript.
+
+**Thoughts:** Got super sick at the end of my vacation and yesterday literally spent the whole day asleep on my couch feeling miserable so no coding happened. Getting back into it today felt great! When I go too long without coding, I feel like something is missing from my day. Excited to get back to it.
