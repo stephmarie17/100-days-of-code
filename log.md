@@ -201,3 +201,76 @@
 **Today's Progress:** Worked more on the project I started Friday, and also did some practice with building Node servers without Express but just with Javascript.
 
 **Thoughts:** Got super sick at the end of my vacation and yesterday literally spent the whole day asleep on my couch feeling miserable so no coding happened. Getting back into it today felt great! When I go too long without coding, I feel like something is missing from my day. Excited to get back to it.
+
+### Day 27: December, 3, 2019
+#### Fixing issues
+
+**Today's Progress:** Worked on resolving some issues in past JavaScript projects.
+
+**Thoughts:** There's always more to learn!
+
+### Day 28: December, 4, 2019
+#### Node.js is magic
+
+**Today's Progress:** Spent most of today working on a project for bootcamp that dynamically generates an html page based on user input via node.
+
+**Thoughts:** I'm feeling way more comfortable with node packages now that I've worked on a few projects. Can't wait to learn more back-end!
+
+**Links to work:**
+[Team Template Engine](https://github.com/stephmarie17/template-engine)
+
+### Day 29: December, 5, 2019
+#### Continued node practice
+
+**Today's Progress:** Worked remotely because I was sick and collaborated with a group on an express project.
+
+**Thoguhts:** Interesting to get a taste of remote coding today! 
+
+### Day 30: December, 6, 2019
+#### Collab projects
+
+**Today's Progress:**
+**Today's Progress:** Kept working on the project from yesterday along with some tutorial coding with a few of my Udemy courses. Finished my project successfully!
+
+**Thoughts:** It's crazy that projects that would have seemed incredibly daunting weeks ago are now so much more feasible for me to problem solve!
+
+**Links to work:**
+[Team Template Engine](https://github.com/stephmarie17/template-engine)
+
+### Day 31: December, 7, 2019
+#### Starting with SQL
+
+**Today's Progress:** Today I started learning (or actually, re-learning, it's been awhile) SQL by creating and updating some simple databases.
+
+**Thoughts:** I learned the theory of SQL and practiced it a little bit when I was in grad school studying library and information science. It's kinda fun to get back to it.
+
+### Day 32: December, 8, 2019
+#### More SQL Practice
+
+**Today's Progress:** Basically just reiterating what I learned yesterday, otherwise I'll never remember it!
+
+**Thoughts:** Very excited to learn how to incorporate databases into applications.
+
+### Day 33: December, 9, 2019
+#### Back-end Projects
+
+**Today's Progress:** This week's bootcamp project was to build the back-end for an app that the front-end was basically complete. I spent today writing routes and starting to code the API.
+
+**Thoughts:** Back-end is actually really fun and I could see myself wanting to pursue this full-time.
+
+### Day 34: December, 10, 2019
+#### Databases
+
+**Today's Progress:** Kept working on my project from yesterday, and also practice more with SQL, including collaborating on a SQL application that also used node.js.
+
+**Thoughts:** Really enjoying tying databases into node projects!
+
+### Day 35: December, 11, 2019
+#### Deployed to Heroku for the first time!
+
+**Today's Progress:** Finished writing the back-end for my project and successfully deployed to Heroku for the first time!
+
+**Thoughts:** The terminal is magic.
+
+**Link to Work:**
+[Note Taker](https://agile-stream-31653.herokuapp.com/)
