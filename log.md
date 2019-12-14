@@ -274,3 +274,17 @@
 
 **Link to Work:**
 [Note Taker](https://agile-stream-31653.herokuapp.com/)
+
+### Day 36: December, 12, 2019
+#### JS practice and mySQL
+
+**Today's Progress:** Today I made progress working on a budget app built with vanilla JavaScript, HTML, and CSS. I also practiced some more with created and updating data with mySQL in node.js.
+
+**Thoughts:** Not sure how I feel about SQL in general at this point. I learned it originally in grad school, but it's been awhile and I just really like designing interfaces so I don't know if it's for me exactly.
+
+### Day 37: Deember, 13, 2019
+#### More JS progress
+
+**Today's Progress:** Made some good progress on the budget app project. This is a project I'm completing as part of the Complete JavaScript Course 2020 on Udemy. It is taking forever!
+
+**Thoughts:** This was really good practice for using map and splice, which I am still getting more comfortable with in JS. I'm 55% of the way through this program, which is good progress because it is like a 24 hour course and covers some really tough JS topics.
