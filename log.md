@@ -282,9 +282,64 @@
 
 **Thoughts:** Not sure how I feel about SQL in general at this point. I learned it originally in grad school, but it's been awhile and I just really like designing interfaces so I don't know if it's for me exactly.
 
-### Day 37: Deember, 13, 2019
+### Day 37: December, 13, 2019
 #### More JS progress
 
 **Today's Progress:** Made some good progress on the budget app project. This is a project I'm completing as part of the Complete JavaScript Course 2020 on Udemy. It is taking forever!
 
 **Thoughts:** This was really good practice for using map and splice, which I am still getting more comfortable with in JS. I'm 55% of the way through this program, which is good progress because it is like a 24 hour course and covers some really tough JS topics.
+
+### Day 38: December, 14, 2019
+#### Handlebars
+
+**Today's Progress:** Practiced routes and creating views with Handlebars and Express.
+
+**Thoughts:** I've done some similar projects with EJS so it was cool to learn Handlebars and apply my experience with it.
+
+### Day 39: December, 15, 2019
+#### Databases
+
+**Today's Progress:** Working more with mySQL and integrating it with node.
+
+**Thoughts:** It's been cool to integrate what I learned on the front-end with some back-end practice.
+
+### Day 40: December, 16, 2019
+#### RESTful Routes
+
+**Today's Progress:** Practiced with RESTful routes by creating a small blog app as a part of Colt Steele's Web Dev Bootcamp on Udemy.
+
+**Thoughts:**  I've come so far since I started learning to work with APIs back in October.
+
+**Link to Work:** 
+[Blog App](https://github.com/stephmarie17/blog-app)
+
+### Day 41: December, 17, 2019
+#### Data associations
+
+**Today's Progress:** Practiced with modularizing applications using module.exports.
+
+**Thoughts:** Learning so much about how to clean up my code! This week I feel like my knowledge has expanded a ton.
+
+### Day 42: December, 18, 2019
+#### More mySQL
+
+**Today's Progress:** Worked on a project for my in-person bootcamp, which is building a node application that utilizes mySQL.
+
+**Thoughts:** This is a tough assignment, but I enjoyed experimenting and practicing with promises and async functions.
+
+### Day 43: December, 19, 2019
+#### Problem Solving and mySQL
+
+**Today's Progress:** Met with a client today to go over an upcoming project, which involved a lot of coding problem solving. In addition to this, continued work on mySQL project from yesterday.
+
+**Thoughts:** Very excited to work with an LA tech company as a part of my in-person bootcamp's portfolio project.
+
+### Day 44: December, 20, 2019
+#### Finished this mySQL project 
+
+**Today's Progress:** Met the requirements for my bootcamp project and cleaned up the code.
+
+**Thoughts:** I kind of never want to look at this assignment again! I miss building pretty interfaces on the front-end. My terminal is making my eyes hurt.
+
+**Link to work:**
+[Employee Tracker](https://github.com/stephmarie17/employee_tracker)
