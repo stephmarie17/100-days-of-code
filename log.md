@@ -343,3 +343,76 @@
 
 **Link to work:**
 [Employee Tracker](https://github.com/stephmarie17/employee_tracker)
+
+### Day 45: December, 21, 2019
+
+**Today's Progress:** On break from class so I'm going back to basics and practicing vanilla Javascript.
+
+**Thoughts:** Even though I've been thinking about learning Python, I'm gonna stick with trying to get really confident with Javascript first.
+
+### Day 46: December, 22, 2019
+
+**Today's Progress:** Trying to put in extra time because I know I won't be coding during Christmas. Doing lots of Javascript studying over the break.
+
+**Thoughts:** Picking back up on an in-depth Javascript course I started awhile ago has been super helpful.
+
+### Day 46: December, 23, 2019
+
+**Today's Progress:** Working on a code-along project through Udemy that involves building a front and backend for a site with Express. 
+
+**Thoughts:** Very helpful for an upcoming homework I have to complete.
+
+### Day 47: December, 27, 2019
+
+**Today's Progress:** Spent the holidays out of town then had to take a major detour when the Grapevine was closed for snow, so getting back into it today. Worked on a Javascript project.
+
+**Thoughts:** Made a lot of progress on this project. It's felt never-ending!
+
+**Link to Work:**
+[Budget App](https://github.com/stephmarie17/budget-app)
+
+### Day 48: December, 28, 2019
+
+**Today's Progress:** Getting into studying more ES6.
+
+**Thoughts:** Feeling way more comfortable with arrow functions which have sort of mystified me in the past.
+
+### Day 49: December, 29, 2019
+
+**Today's Progress:** Kept it up with my ES6 studies. Making a lot of progress!
+
+**Thoughts:** Really glad I decided to focus more on Javascript.
+
+### Day 50: December,  30, 2019
+
+**Today's Progress:** Continued working on the fullstack application for the Web Development Bootcamp.
+
+**Thoughts:** This project a great way to learn because a lot of the code in the tutorial is deprecated so I'm researching a lot to modernize it and make it work.
+
+### Day 51: December,  31, 2019
+
+**Today's Progress:** Kept working on the project but might take a break because there's a bug I can't quite figure out.
+
+**Thoughts:** Think I'll shift to a different fullstack course on Udemy that I've had for awhile, I like mixing it up with different instructor styles.
+
+### Day 52: January, 1, 2020
+
+**Today's Progress:** Started Zero to Mastery and really enjoy it so far! I'm also participating in 30DayProject as part of that community, and today I started the basics for my project.
+
+**Thoughts:** Excited for the challenge of working on a project every day for 30 days.
+
+### Day 53: January, 2, 2020
+
+**Today's Progress:** Made more progress with Zero to Mastery, and with my 30DayProject.
+
+**Thoughts:** Trying out some different CSS frameworks just for fun. Seeing what's out there besides Bootstrap.
+
+### Day 54: January, 3, 2020
+
+**Today's Progress:** Today, I studied the basics with the Zero to Mastery course and focused on CSS flexbox and grid. Used this knowledge to completely revamp my portfolio. I also worked on my 30DayProject.
+
+**Thoughts:** I really like this course, it's very up to date and there are a ton of great free resources made available through it.
+
+**Links to Work:**
+[Updated Portfolio](https://stephmarie17.github.io/portfolio-bootcamp/)
+
